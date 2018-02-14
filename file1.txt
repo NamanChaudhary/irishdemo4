@@ -1,2 +1,2 @@
-this is first file git-2nd-test
+this is first file
 
