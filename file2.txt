@@ -1,5 +1,5 @@
 
 this is file2 changed done by git-test
 
-changed done by git-2nd-test
+changed done by git-2nd-test git-2nd-test
 
